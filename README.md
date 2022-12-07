@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maddie!
 - 👀 I’m interested in startups, biotech, wine, and psychology
-- 🌱 I’m currently learning SQL and cloud
-- 💞️ I’m looking to collaborate on learning :) 
+- 🌱 I’m currently learning SQL and more on cloud computing
+- 💞️ I’m looking to collaborate as I learn :) 
 - 📫 How to reach me: mntyler21@gmail.com
 
 <!---
